@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_notifications_white_24dp"
+        android:title="Benachrichtigung" />
+    <item
+        android:id="@+id/nav_video"
+        android:icon="@drawable/ic_videocam_white_24dp"
+        android:title="Video" />
+    <item
+        android:id="@+id/nav_audio"
+        android:icon="@drawable/ic_mic_white_24dp"
+        android:title="Sprache" />
+
+
+</menu>

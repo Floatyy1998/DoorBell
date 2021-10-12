@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "45684750471",
+    "firebase_url": "https://smartbell-984bd.firebaseio.com",
+    "project_id": "smartbell-984bd",
+    "storage_bucket": "smartbell-984bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45684750471:android:4ba3d65bf660b91de8a022",
+        "android_client_info": {
+          "package_name": "com.konraddinges.smarteklingel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45684750471-5m5tk0fim27cp2gu1sqobnhvljvi6kfs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.konraddinges.smarteklingel",
+            "certificate_hash": "7073b3202dd094cdf9c5e93768e13aa0e39e51d5"
+          }
+        },
+        {
+          "client_id": "45684750471-kq61a3e965784dr0l60cab3qb5lehkq1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.konraddinges.smarteklingel",
+            "certificate_hash": "13571205fde3ae57a06b03bfeeb4063ce854cbc4"
+          }
+        },
+        {
+          "client_id": "45684750471-mmsdicv37r7q3hrm37cdmoo9m22ou69q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWosRP6Wr1-WPe3DklKU88gBXQisk0d14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45684750471-mmsdicv37r7q3hrm37cdmoo9m22ou69q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
